@@ -1,2 +1,3 @@
-# tspay-decoding-csv-tool
-Golang decoding csv file for TSPay project
+The tool for decoding csv file
+To support staging testing
+Made by Loan Vu - Fujitech JSC
